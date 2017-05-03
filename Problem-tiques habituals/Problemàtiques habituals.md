@@ -40,6 +40,11 @@
           funcionar correctamente, entonces el problema
           era la RAM que estaba rota.
 #####     RAM medio rota: (unos KB mal)
+          Desde la BIOS podemos ver si la RAM tiene la
+          capacidad que dice el producto, y en caso de que
+          desde la BIOS veamos menos de la capacidad que
+          se supone que tiene, entonces la RAM esta media
+          rota.
           
 #####     Sin RAM:
           Si el ordenador está sin RAM lo que podemos
@@ -74,10 +79,25 @@
           problema sea de la placa.
 #####     Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
 #####     Falta ratón: No se queja.
+          
 #####     Falla CD/DVD: No se queja.
+         
 #####     Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.
+          Pues nos aparecerá un mensaje quejandose de que
+          no encuentra el sistema y esto pasa porque 
+          falta conectar el disco duro, y la solucion 
+          sería conectar un disco duro.
 #####     BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.
+          Si nos pasa esto es porque hemos tratado de 
+          actualizar la BIOS y no lo hemos hecho 
+          correctamente, y lo que deberiamos hacer es 
+          volver a descargar la actualizacion de la BIOS 
+          e instalarla correctamente.
 #####     Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.
+          Este mensaje nos muestra un mensaje de error 
+          que significa que el disco duro está en mal 
+          estado y lo mejor sería cambiarlo para no tener 
+          problemas.
 #####     Pantalla rota/cable roto: Arranca con normalidad:
           Si el pc arranca con normalidad pero no nos
           muestra ninguna imagen, deberiamos comprobar si
@@ -86,8 +106,10 @@
           que si funcionen y ya veriamos cuales eran los
           problemas.
 #####     USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.
+          Si conectamos un pendrive en el pc y éste se quema lo que debemos hacer es abrir la torre y fijarnos en los cables que conectan de la placa al USB del frontal y conectarlos correctamente para solucionar el problema.
 
 #####     USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).
+          
 #####     Pila de la BIOS esgotada:
           Si cuando entramos a la BIOS vemos que la hora y
           la fecha son diferentes a las actuales, podría
