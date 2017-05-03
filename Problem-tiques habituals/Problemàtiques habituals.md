@@ -10,7 +10,12 @@
           
 #####     Fuente medio rota:
 #####     RAM mal puesta:
-          Para comprobar si la RAM esta mal puesta lo que podemos hacer es abrir la torre y sacar la RAM y volver a introducirla correctamente, y si introduciendola bien no nos muestra ningún problema a la hora de dar imagen, entonces el problema era que estaba mal puesta, igualmente la torre normalmente da un pitido cuando la RAM está mal puesta.
+          Para comprobar si la RAM esta mal puesta lo que podemos
+          hacer es abrir la torre y sacar la RAM y volver a
+          introducirla correctamente, y si introduciendola bien no nos
+          muestra ningún problema a la hora de dar imagen, entonces el
+          problema era que estaba mal puesta, igualmente la torre
+          normalmente da un pitido cuando la RAM está mal puesta.
 #####     RAM rota:
           Para comprobar si la RAM esta rota lo que podriamos hacer es abrir la torre y cambiar la RAM por otra RAM que estemos seguros de que si funciona, y si despues del cambio el pc vuelve a funcionar correctamente, entonces el problema era la RAM que estaba rota.
 #####     RAM medio rota: (unos KB mal)
