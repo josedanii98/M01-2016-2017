@@ -12,8 +12,17 @@
 #####     Botón power on se queda clavado en ON:
           
 #####     Fuente rota del todo:
+          Si tratamos de encender el pc y no da ninguna
+          señal de vida, ni pitidos, ni nada, descartando
+          lo del boton power on roto, entonces la fuente
+          está rota del todo.
           
 #####     Fuente medio rota:
+          Si el pc arranca pero se apaga solo o algunos de
+          los complementos que van conectados a la fuente
+          tienen problemas, seguramente la fuente esté
+          media rota y por eso fallan los complementos del
+          pc.
 #####     RAM mal puesta:
           Para comprobar si la RAM esta mal puesta lo que 
           podemos hacer es abrir la torre y sacar la RAM y 
@@ -44,13 +53,25 @@
           gráfica por otra que funcione y si el problema 
           de imagen se soluciona, significa que la gráfica
           estaba rota.
-#####     CPU rota/ no hay CPU/chipset roto
+#####     CPU rota/ no hay CPU/chipset roto:
+          Si encendemos el pc y se nos presentan
+          problemas, podría ser que la CPU esté dañada, y
+          lo que podemos hacer para comprobarlo es abrir
+          la torre y cambiar la CPU por una que si
+          funcione y ver si los problemas se solucionan.
 #####     Placa rota: 
           Si tratamos de arrancar el pc y comprobamos que
           no da ninguna señal de vida y no funciona nada
           ni arranca ni nada pues podría ser que la placa
           esté rota.
 #####     Placa medio rota:
+          Si a la hora de arrancar el pc, éste nos muestra
+          problemas con algunos complementos que van
+          conectados a la placa, podría ser que la placa
+          esté media rota, y podríamos comprobarlo
+          cambiando esos complementos por otros y si los
+          problemas siguen existiendo pues seguramente el
+          problema sea de la placa.
 #####     Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
 #####     Falta ratón: No se queja.
 #####     Falla CD/DVD: No se queja.
