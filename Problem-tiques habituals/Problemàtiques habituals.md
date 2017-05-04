@@ -10,9 +10,12 @@
           contacto con los pines, y si el ordenador 
           enciende significa que el botón está roto.
 #####     Botón power on se queda clavado en ON:
-          Si se queda clavado miramos que no esté atascado ala carcasa o algo la esté apretando, miramos si esta vende
-          conectado aunque no sea un curcircuit o algo que esté haciendo mal contacto, miramos los pinos de power switch si
-          están bien conectados o si hay algo haciendo falso contacto. si no serían cosas mas graves como la placa o la fuente
+          Si se queda clavado miramos que no esté atascado
+          ala carcasa o algo la esté apretando, miramos si 
+          esta vende conectado aunque no sea un curcircuit o algo que
+          esté haciendo mal contacto, miramos los pinos de 
+          power switch si están bien conectados o si hay algo haciendo falso
+          contacto. si no serían cosas mas graves como la placa o la fuente
           de alimentación que estarían rotas.
           
 #####     Fuente rota del todo:
@@ -82,14 +85,19 @@
           problemas siguen existiendo pues seguramente el
           problema sea de la placa.
 #####     Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
-          Hay un código de beeps cuando falta teclado y en muchos pc te salta un error de keyboard not found, Miramos si esta
-          bien conectado vía USB, Bluetooth, Mirar los drivers en caso de que no sea plug and play
+          Hay un código de beeps cuando falta teclado y 
+          en muchos pc te salta un error de keyboard not 
+          found, Miramos si esta bien conectado vía USB, 
+          Bluetooth, Mirar los drivers en caso de que no sea plug and play
 #####     Falta ratón: No se queja.
-          Miremos si esta bien conectado al puerto USB, miramos si le faltan los drivers porque funcione y si sigue sin ir,
-          miramos si se plug and play, o si el láser del raton esta dañado
+          Miremos si esta bien conectado al puerto USB, 
+          miramos si le faltan los drivers porque funcione 
+          y si sigue sin ir, miramos si se plug and play, o si el láser del 
+          raton esta dañado
           
 #####     Falla CD/DVD: No se queja.
-          Miremos si esta conectado ala placa se SATA / IDE si el conector de la fuente está bien conectado, miramos s 
+          Miremos si esta conectado ala placa se SATA / IDE 
+          si el conector de la fuente está bien conectado, miramos s 
           los drivers están bien instalados y si la detecta el sistema.
          
 #####     Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.
@@ -116,7 +124,10 @@
           que si funcionen y ya veriamos cuales eran los
           problemas.
 #####     USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.
-          Si conectamos un pendrive en el pc y éste se quema lo que debemos hacer es abrir la torre y fijarnos en los cables que conectan de la placa al USB del frontal y conectarlos correctamente para solucionar el problema.
+          Si conectamos un pendrive en el pc y éste se quema 
+          lo que debemos hacer es abrir la torre y fijarnos 
+          en los cables que conectan de la placa al USB del 
+          frontal y conectarlos correctamente para solucionar el problema.
 
 #####     USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).
           Miramos si el conector de USB de placa está bien conectado (los pinos)
